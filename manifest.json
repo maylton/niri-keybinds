@@ -1,0 +1,11 @@
+{
+    "id": "niri-keybinds",
+    "name": "Niri Keybinds Editor",
+    "version": "1.0.0",
+    "minNoctaliaVersion": "4.0.0",
+    "author": "Seu Nome",
+    "description": "Editor visual de atalhos para o Niri.",
+    "entryPoints": {
+        "desktopWidget": "Main.qml"
+    }
+}
